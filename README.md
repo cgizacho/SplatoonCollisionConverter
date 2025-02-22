@@ -8,6 +8,6 @@ Converts S1/S2 Collision to Splatoon 3
 3. Double check the collison .json is correct, browse & save the new json and obj to your preferred folder.
 
 
--
+
 
 created by gen, published by zara
