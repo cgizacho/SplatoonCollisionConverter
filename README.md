@@ -1,6 +1,5 @@
 # Splatoon Collision Converter
-## Converts S1/S2 Collision to Splatoon 3
-
+Converts S1/S2 Collision to Splatoon 3
 created by gen, published by zara
 
 ## Usage
